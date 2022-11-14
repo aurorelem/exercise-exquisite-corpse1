@@ -1,6 +1,6 @@
 # exercise-exquisite-corpse1
-Ma visite surprise
-je m'en fou un peu
+# Ma visite surprise
+<p>Je m'en fou un peu, on va dire que l'essentiel c'est d'écrire quelque chose...</p>
 
 Car je sais que la surprise sera gâchée.
 Et oui, je n'arrive pas à garder un secret.
